@@ -1,0 +1,13 @@
+{
+	"name": "gatling-test",
+	"version": "1.0.0",
+	"description": "Test Gatling",
+	"main": "index.js",
+	"author": "Aurélien BERA",
+	"license": "MIT",
+	"private": true,
+	"volta": {
+		"node": "20.13.1",
+		"yarn": "1.22.22"
+	}
+}
